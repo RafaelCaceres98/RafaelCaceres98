@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/ee3e0604-b59c-480f-868e-5154ee7f04c4)
 
-![Hand Waving GIF](https://media4.giphy.com/media/Y1ejcLk2bPhxHGRLoI/200.webp?cid=790b7611o9btzyxpd49p8oar7um9zcqf0nl0mc34op68zsop&ep=v1_gifs_search&rid=200.webp&ct=g)
-
 
 ## 👋 Hola todos, Soy Rafael Caceres 
 
