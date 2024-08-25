@@ -14,7 +14,7 @@
 📧¡No dudes en contactarme para cualquier consulta o colaboración! rricardocaceres@unicesar.edu.co
 
 🔗 Encuéntrame en [Facebook](https://www.facebook.com/neymarcaceres.kceresdaza?mibextid=ZbWKwL) 
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/neymarcaceres.kceresdaza?mibextid=ZbWKwL)
+
 
 
 
