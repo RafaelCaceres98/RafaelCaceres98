@@ -1,4 +1,4 @@
-## Hola todos, Soy Rafael Caceres 👋 👋👋
+ 👋 Hola todos, Soy Rafael Caceres 
 
 👨🏼‍💻 Sobre mí
 💻Soy ingeniero de software, especializado en desarrollo frontend y backend
