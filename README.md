@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/ee3e0604-b59c-480f-868e-5154ee7f04c4)
 
 ![Hand Waving GIF](https://media.giphy.com/media/3o6Zt7e7XT9mMKlG6s/giphy.gif)
+
+![Welcome Programmers GIF](https://media.giphy.com/media/1Bz7H9JSHRQxk/giphy.gif)
 ## 👋 Hola todos, Soy Rafael Caceres 
 
 👨🏼‍💻 Sobre mí
