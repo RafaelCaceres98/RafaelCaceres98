@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/ee3e0604-b59c-480f-868e-5154ee7f04c4)
+
+
 ## 👋 Hola todos, Soy Rafael Caceres 
 
 👨🏼‍💻 Sobre mí
