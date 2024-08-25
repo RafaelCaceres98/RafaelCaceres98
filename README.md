@@ -13,6 +13,23 @@
 
 📧¡No dudes en contactarme para cualquier consulta o colaboración! rricardocaceres@unicesar.edu.co
 
+
+### 🔹 Información
+- 📍 Buenos Aires, Argentina
+- 📧 ¡No dudes en contactarme para cualquier consulta o colaboración! [rricardocaceres@unicesar.edu.co](mailto:rricardocaceres@unicesar.edu.co)
+- 🌐 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/rricardocaceres/)
+- 🐦 Sígueme en [Twitter](https://twitter.com/tu_usuario)
+- 🔗 [Facebook](https://www.facebook.com/tu-perfil)
+
+### 🧑‍💻 Red Social
+- GitHub: [sergiecode](https://github.com/sergiecode)
+- Twitter: [@sergiecode](https://twitter.com/sergiecode)
+- LinkedIn: [sergiecode](https://www.linkedin.com/in/sergiecode/)
+
+### 📈 Estadísticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)](https://github.com/tu-usuario/github-readme-stats)
+
+
 🔗 Encuéntrame en [Facebook](https://www.facebook.com/neymarcaceres.kceresdaza?mibextid=ZbWKwL) 
 
 
