@@ -11,13 +11,13 @@
 
 🖱️Programador altamente motivado y con experiencia en el desarrollo de aplicaciones web y móviles. Experto en varios lenguajes de programación y tecnologías, con un historial probado de entregar proyectos de alta calidad a tiempo. Apasionado por la resolución de problemas y la mejora continua. Busco oportunidades desafiantes para seguir creciendo como profesional en el campo del desarrollo de software
 
-📧¡No dudes en contactarme para cualquier consulta o colaboración! rricardocaceres@unicesar.edu.co
-
 
 ### 🔹 Información
-### 🧑‍💻 Red Social
+
 - 📍 Colombia, Valledupar-Cesar
 - 📧 ¡No dudes en contactarme para cualquier consulta o colaboración! [rricardocaceres@unicesar.edu.co](mailto:rricardocaceres@unicesar.edu.co)
+
+  ### 🧑‍💻 Red Social
 - 🌐 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/rricardocaceres/)
 - 🐦 Sígueme en [Twitter](https://twitter.com/tu_usuario)
 - 🔗 [Facebook](https://www.facebook.com/neymarcaceres.kceresdaza?mibextid=ZbWKwL)
