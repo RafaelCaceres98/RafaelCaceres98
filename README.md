@@ -18,7 +18,9 @@
 - 📧 ¡No dudes en contactarme para cualquier consulta o colaboración! [rricardocaceres@unicesar.edu.co](mailto:rricardocaceres@unicesar.edu.co)
 
   ### 🧑‍💻 Red Social
-- 🌐 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/rricardocaceres/)
+- 🌐 Encuéntrame en [LinkedIn](www.linkedin.com/in/
+rafael-ricardo-caceres-daza-80b10b267
+)
 - 🐦 Sígueme en [Twitter](https://twitter.com/tu_usuario)
 - 🔗 [Facebook](https://www.facebook.com/neymarcaceres.kceresdaza?mibextid=ZbWKwL)
 
