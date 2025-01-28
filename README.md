@@ -11,6 +11,14 @@
 
 🖱️Programador altamente motivado y con experiencia en el desarrollo de aplicaciones web y móviles. Experto en varios lenguajes de programación y tecnologías, con un historial probado de entregar proyectos de alta calidad a tiempo. Apasionado por la resolución de problemas y la mejora continua. Busco oportunidades desafiantes para seguir creciendo como profesional en el campo del desarrollo de software
 
+ Especialidades:
+
+💻 Frontend: Manejo de tecnologías como JavaScript, Angular, React, y otros frameworks.
+⚙️ Backend: Conocimiento en Node.js y APIs RESTful.
+🛠️ Desarrollo Full Stack: Capacidad para trabajar tanto en el lado del cliente como del servidor.
+🧑‍💻 Bases de datos: Conocimiento en bases de datos SQL y NoSQL.
+🎨 UI/UX: Enfoque en crear interfaces intuitivas y agradables para el usuario.
+📈 Metodologías Ágiles: Trabajo con equipos de desarrollo utilizando Scrum y otras metodologías ágiles.
 
 ### 🔹 Información
 
